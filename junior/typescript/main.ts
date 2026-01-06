@@ -37,6 +37,11 @@ function calculatePanels(
   return 0;
 }
 
+
+// Objetivo 2
+
+
+
 function main(): void {
   console.log("🐕 Wuuf wuuf wuuf 🐕");
   console.log("================================\n");
